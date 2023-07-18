@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">songLibrary</string>
+    <string name="tv1">Song Title</string>
+    <string name="hint1">Enter song title here</string>
+    <string name="tv2">Singers</string>
+    <string name="hint2">Enter singers\' names here</string>
+    <string name="tv3">Year of Release</string>
+    <string name="hint3">Enter year of release here</string>
+    <string name="tv4">Rating in Stars</string>
+    <string name="opt1">1</string>
+    <string name="opt2">2</string>
+    <string name="opt3">3</string>
+    <string name="opt4">4</string>
+    <string name="opt5">5</string>
+    <string name="btn1">INSERT</string>
+    <string name="btn2">SHOW LIST</string>
+    <string name="btn3">UPDATE</string>
+    <string name="btn4">DELETE</string>
+    <string name="btn5">CANCEL</string>
+    <string name="btn6">SHOW ALL SONGS WITH 5 STARS</string>
+    <string name="tvid">Song ID</string>
+</resources>
